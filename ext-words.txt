@@ -16532,6 +16532,7 @@ honourees
 honourless
 undishonoured
 
+unarmoured
 coloratures
 colorblind
 colorier
