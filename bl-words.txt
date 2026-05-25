@@ -327,7 +327,6 @@ tchad
 tcp
 td
 tdt
-tinggian
 tji
 tko
 tlc
@@ -374,3 +373,6 @@ shua
 tachistosopically
 anestheticallies
 behavioristicallies
+ningal
+ningirsu
+kankakee
